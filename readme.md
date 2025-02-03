@@ -1,5 +1,5 @@
 # This is my first repo
-This is my **first bold text** to `markdown in a grey box` language.
+This is my **first bold text** to markdown in a `grey box` language.
 
 > This is a pipeline
 
