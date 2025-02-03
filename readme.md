@@ -17,5 +17,9 @@ Codeblöcke mit drei-mal backtick:
 Als Javascript mit js
 
 ```js
-console.log(Hello World);
+console.log("Hello World");
+```
+Codeblock für HTML:
+```html
+<h1>Headline 1</h1>
 ```
